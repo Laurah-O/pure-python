@@ -1,0 +1,11 @@
+my_college="eMobilis"
+my_int=6
+my_float=3.78
+my_complex=1j
+my_bool=True
+my_bool2=False
+my_list=["Laura", "Joan", "Lorna"]
+my_tuple=("banana", "apple", "mango")
+my_range=range(6)
+my_set={"toyota", "subaru", "nissan"}
+my_dictionary={"name": "Laura", "age": 22}
